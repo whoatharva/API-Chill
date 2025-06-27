@@ -1,6 +1,6 @@
 # API-Chill
 
-This project walks you through building and deploying a custom AI chatbot using your own data, powered by Azure AI Foundry, and hosted via *Azure Web Apps. It also includes **Google Authentication* integration for secure access.
+This project walks you through building and deploying a custom AI chatbot using your own data, powered by Azure AI Foundry, and hosted via Azure Web Apps. It also includes Google Authentication integration for secure access.
 
 ---
 
@@ -146,7 +146,7 @@ Make sure you have an [Azure account](https://portal.azure.com) and access to th
 
 ---
 
-## 🎮 Bonus: Build Your Own Toy AI Project (Hosted by Vishvam Moliya)
+## 🎮 Bonus: Build Your Own Toy AI Project
 
 While the above guide is for building a full-fledged Copilot using Azure AI Foundry, the second half of the *API & Chill* session is about creativity and fun with just HTML + JS + Azure OpenAI APIs.
 
