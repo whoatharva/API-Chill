@@ -156,8 +156,8 @@ You’ll learn how to:
 * Build quirky interactive UIs using Tailwind CSS
 * Use creative prompts to make toy apps like MoodMate, GPT Pickup Line Generator, Startup Roaster, and Prompt Playground
 
-🎯 *Live Demo:* [https://toys.vishvam.dev](https://toys.vishvam.dev)
-💻 *Code Repository:* [https://github.com/0xvish/mlsa-api-and-chill](https://github.com/0xvish/mlsa-api-and-chill)
+🎯 *Live Demo:* [toys.vishvam.dev](https://toys.vishvam.dev)
+💻 *Code Repository:* [GitHub Repo](https://github.com/0xvish/mlsa-api-and-chill)
 
 ---
 
