@@ -159,8 +159,6 @@ You’ll learn how to:
 🎯 *Live Demo:* [https://toys.vishvam.dev](https://toys.vishvam.dev)
 💻 *Code Repository:* [https://github.com/0xvish/mlsa-api-and-chill](https://github.com/0xvish/mlsa-api-and-chill)
 
-> ✨ This section of the session will be hosted by *Vishvam Moliya*, Co-Lead at MLSA LDCE.
-
 ---
 
 ## 📄 License
